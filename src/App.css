@@ -13,6 +13,17 @@
   }
 }
 
+.navigation a {
+  padding: 30px;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.error {
+  background:red
+}
+
 .App-header {
   /* background-color: #282c34;
   min-height: 100vh;
